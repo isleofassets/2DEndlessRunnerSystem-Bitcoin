@@ -5,7 +5,7 @@ In this mini-game, you act as a bitcoin that changes the direction of its moveme
 
 Supported platforms: Android/IOS/PC
 
-![Screenshot](cover-img.jpg)
+![Cover Image](cover-img.jpg)
 
 # Screenshots
 ![Screenshot](screenshot-img-a.jpg)
