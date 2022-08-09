@@ -7,5 +7,3 @@ Briefly about the purpose of each script:
 - Touch			(tracking screen taps)
 
 All blocks in scripts are commented out, so I think there will be no problems. Otherwise, write to the mail isleofassets@gmail.com
-
-Please do not forget to rate this asset in the Asset Store! :)
