@@ -9,7 +9,7 @@ Supported platforms: Android/IOS/PC
 
 # Screenshots
 
-![Screenshot](screenshot-img-a)
-![Screenshot](screenshot-img-b)
-![Screenshot](screenshot-img-c)
-![Screenshot](screenshot-img-d)
+![Screenshot](screenshot-img-a.jpg)
+![Screenshot](screenshot-img-b.jpg)
+![Screenshot](screenshot-img-c.jpg)
+![Screenshot](screenshot-img-d.jpg)
