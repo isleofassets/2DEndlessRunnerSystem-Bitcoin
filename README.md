@@ -8,7 +8,6 @@ Supported platforms: Android/IOS/PC
 ![Screenshot](cover-img.jpg)
 
 # Screenshots
-
 ![Screenshot](screenshot-img-a.jpg)
 ![Screenshot](screenshot-img-b.jpg)
 ![Screenshot](screenshot-img-c.jpg)
